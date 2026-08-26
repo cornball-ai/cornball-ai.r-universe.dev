@@ -1,6 +1,6 @@
 [
     {
-        "package": "grpc",
-        "url": "https://github.com/cornball-ai/grpc"
+        "package": "rgrpc",
+        "url": "https://github.com/cornball-ai/rgrpc"
     }
 ]

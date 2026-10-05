@@ -2,5 +2,9 @@
     {
         "package": "rgrpc",
         "url": "https://github.com/cornball-ai/rgrpc"
+    },
+    {
+        "package": "civetwebR",
+        "url": "https://github.com/cornball-ai/civetwebR"
     }
 ]
